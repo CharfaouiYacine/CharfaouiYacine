@@ -9,5 +9,7 @@ Have A great Day 😊 👋
 
 # Projects I did:
 CLI Prayer-Times 🕌 >> https://github.com/CharfaouiYacine/Prayer-Times
+
 UI Todo-List ✅ >>  https://github.com/CharfaouiYacine/Learning/blob/master/ToDoList.py
+
 UI Calculator 🔢📟 >> https://github.com/CharfaouiYacine/Learning/blob/master/Calculator.py
