@@ -8,7 +8,7 @@ Still a beginner who is exploring this world 😁 , currently using python 🐍
 Have A great Day 😊 👋
 
 # Projects I did:
-CLI Prayer-Times 🕌 >> https://github.com/CharfaouiYacine/Prayer-Times
+CLI/UI Prayer-Times 🕌 >> https://github.com/CharfaouiYacine/Prayer-Times
 
 UI Todo-List ✅ >>  https://github.com/CharfaouiYacine/Learning/blob/master/ToDoList.py
 
