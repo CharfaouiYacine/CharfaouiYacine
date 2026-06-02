@@ -13,3 +13,5 @@ CLI/UI Prayer-Times 🕌 >> https://github.com/CharfaouiYacine/Prayer-Times
 UI Todo-List ✅ >>  https://github.com/CharfaouiYacine/Learning/blob/master/ToDoList.py
 
 UI Calculator 🔢📟 >> https://github.com/CharfaouiYacine/Learning/blob/master/Calculator.py
+
+CLI Weather App ⛅ >> https://github.com/CharfaouiYacine/Learning-JavaScript/blob/master/Weather_get.js
