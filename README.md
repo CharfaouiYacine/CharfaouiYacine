@@ -14,4 +14,4 @@ UI Todo-List ✅ >>  https://github.com/CharfaouiYacine/Learning/blob/master/ToD
 
 UI Calculator 🔢📟 >> https://github.com/CharfaouiYacine/Learning/blob/master/Calculator.py
 
-CLI/UI Weather App ⛅ >> [https://github.com/CharfaouiYacine/Learning-JavaScript/blob/master/Weather_get.js](https://github.com/CharfaouiYacine/Weather_App)
+CLI/UI Weather App ⛅ >> https://github.com/CharfaouiYacine/Weather_App
