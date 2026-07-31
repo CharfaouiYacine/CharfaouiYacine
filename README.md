@@ -8,10 +8,10 @@ Still a beginner who is exploring this world 😁 , currently using python 🐍
 Have A great Day 😊 👋
 
 # Skills I am working on:
->> Trying to become a back-end Developer
->> JavaScript
->> Express.js
->> Loading... 
+=>> Trying to become a back-end Developer
+=>> JavaScript
+=>> Express.js
+=>> Loading... 
 
 # Projects I did:
 CLI/UI Prayer-Times 🕌 >> https://github.com/CharfaouiYacine/Prayer-Times
